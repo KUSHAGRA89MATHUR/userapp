@@ -9,3 +9,13 @@ docker-compose up -d
 - cd ui
 - npm install
 - npm run start
+
+# To run unit tests, please run the below commands.
+ 
+- UI:
+- cd ui
+- npm run test
+ 
+- API:
+- cd api
+- npm run test
